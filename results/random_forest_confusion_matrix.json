@@ -1,0 +1,23 @@
+{
+  "labels": [
+    "benign",
+    "malicious"
+  ],
+  "matrix": [
+    [
+      78951,
+      6670
+    ],
+    [
+      9457,
+      35161
+    ]
+  ],
+  "true_negatives": 78951,
+  "false_positives": 6670,
+  "false_negatives": 9457,
+  "true_positives": 35161,
+  "accuracy": 0.8762,
+  "roc_auc": 0.934,
+  "average_precision": 0.901
+}

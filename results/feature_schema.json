@@ -1,0 +1,11 @@
+{
+  "url_length": "Total number of characters in the URL string.",
+  "num_digits": "Number of numeric characters in the URL.",
+  "num_special": "Number of non-alphanumeric characters in the URL.",
+  "num_dots": "Number of dot characters in the URL.",
+  "has_ip": "Binary flag indicating whether the URL contains an IPv4-style raw IP address.",
+  "has_https": "Binary flag indicating whether the URL starts with HTTPS.",
+  "has_login": "Binary flag for the keyword login.",
+  "has_verify": "Binary flag for the keyword verify.",
+  "has_secure": "Binary flag for the keyword secure."
+}
